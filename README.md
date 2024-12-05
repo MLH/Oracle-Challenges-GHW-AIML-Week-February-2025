@@ -41,8 +41,8 @@ that warehouse with a data lake, and then gain meaningful business insights – 
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * Oracle Cloud Challenge (Run on your Oracle Cloud Tenancy) OR
-  * Livelabs Sandbox Challenge (Run on an Oracle-owned pre-configured
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge1) (Run on your Oracle Cloud Tenancy) OR
+  * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge1) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
@@ -56,8 +56,8 @@ You will transform a spreadsheet into a beautiful, fuctional web app exploring N
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * Oracle Cloud Challenge (Run on your Oracle Cloud Tenancy) OR
-  * Livelabs Sandbox Challenge (Run on an Oracle-owned pre-configured
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge2) (Run on your Oracle Cloud Tenancy) OR
+  * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge2) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
@@ -77,8 +77,8 @@ In this challenge, you will explore the graph features of the Oracle Autonomous 
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * Oracle Cloud Challenge (Run on your Oracle Cloud Tenancy) OR
-  * Livelabs Sandbox Challenge (Run on an Oracle-owned pre-configured
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge3) (Run on your Oracle Cloud Tenancy) OR
+  * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge3) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
   
@@ -91,8 +91,8 @@ Ready to create a Social Media app where users can upload images, like other use
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * Oracle Cloud Challenge (Run on your Oracle Cloud Tenancy) OR
-  * Livelabs Sandbox Challenge (Run on an Oracle-owned pre-configured
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge4) (Run on your Oracle Cloud Tenancy) OR
+  * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge4) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
@@ -102,6 +102,6 @@ tenancy)
 This challenge provides an introduction to the Structured Query Language (SQL), learn how to create tables with primary keys, columns, constraints, indexes, and foreign keys.
 #### Steps to Complete:
 * Complete the challenge
-  * Oracle Cloud Challenge (Run on your Oracle Cloud Tenancy)
-  * _Note: Sign up for an Oracle Cloud here. This challenge is not available on LiveLabs Sandbox yet._
+  *[Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge5) (Run on your Oracle Cloud Tenancy)
+  * _Note: Sign up for an Oracle Cloud [here](https://mlh.link/ghwdata1224-oracle-OCFT). This challenge is not available on LiveLabs Sandbox yet._
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
