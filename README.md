@@ -1,6 +1,6 @@
 # Welcome to Oracle Database's GHW: Open Source Week Challenges!
 
-Hello hackers! Ddid you know that the world runs on Oracle Database? <br><br>
+Hello hackers! Did you know that the world runs on Oracle Database? <br><br>
 94% of Fortune Global 100 use Oracle Database, and 14 of the top 15 banks in the Fortune Global 500
 list use Oracle Database on their Exadata platform. <br><br>
 By completing the challenges below, you’ll gain hands-on experience with the same technology behind some of the
@@ -101,6 +101,6 @@ tenancy)
 This challenge provides an introduction to the Structured Query Language (SQL), learn how to create tables with primary keys, columns, constraints, indexes, and foreign keys.
 #### Steps to Complete:
 * Complete the challenge
-  *[Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge5) (Run on your Oracle Cloud Tenancy)
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge5) (Run on your Oracle Cloud Tenancy)
   * _Note: Sign up for an Oracle Cloud [here](https://mlh.link/ghwdata1224-oracle-OCFT). This challenge is not available on LiveLabs Sandbox yet._
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
