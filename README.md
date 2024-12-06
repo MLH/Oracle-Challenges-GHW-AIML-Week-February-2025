@@ -41,13 +41,15 @@ that warehouse with a data lake, and then gain meaningful business insights – 
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge1) (Run on your Oracle Cloud Tenancy) OR
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge1) (Run on your Oracle Cloud Tenancy) 
+<br> OR <br>
   * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge1) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
 ## Coding Challenge 2 
 ### Converting your Spreadsheet into a Cloud App using Oracle APEX (45 minutes)
+[_Watch the live workshop of this challenge on Dec 6th, 12PM-1pm EST_](https://events.mlh.io/events/12036?_gl=1*wfg4cu*_ga*OTkxNTkyMDA0LjE2NTM0MDM3Mzg.*_ga_E5KT6TC4TK*MTczMzQ0NjIzNi43NDYuMS4xNzMzNDQ2MzQ1LjAuMC4w)
 #### Objectives: 
 By of the end of this challenge, you will create a fully featured, responsive web app using Oracle APEX, the world’s most popular enterprise low-code application development platform. <br>
 You will transform a spreadsheet into a beautiful, fuctional web app exploring NYC high schools – all in 45 minutes
@@ -56,28 +58,24 @@ You will transform a spreadsheet into a beautiful, fuctional web app exploring N
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge2) (Run on your Oracle Cloud Tenancy) OR
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge2) (Run on your Oracle Cloud Tenancy)
+  <br> OR <br>
   * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge2) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
 
-#### Documentation:
-* [SQL, JSON, and MongoDB API: Unify worlds with Oracle Database 23ai Free](https://mlh.link/ghwdata1224-oracle-unifyworlds)
-* PLEASE NOTE: An [Oracle LiveLabs account ](https://mlh.link/ghwdata1224-oracle-livelabs) is required to start this coding challenge. 
-
 ## Coding Challenge 3 
-### Analyze, Query and Visualize Graphs in Oracle Database (60 minutes) 
+### Fraud Detection in Real Time with Graph Studio (60 minutes) 
+[_Watch the live workshop of this challenge on Dec 9th, 11am-12pm EST_](https://events.mlh.io/events/12065?_gl=1*kjj97*_ga*OTkxNTkyMDA0LjE2NTM0MDM3Mzg.*_ga_E5KT6TC4TK*MTczMzQ0NjIzNi43NDYuMS4xNzMzNDQ2NzQyLjAuMC4w)
 #### Objectives: 
-In this challenge, you will explore the graph features of the Oracle Autonomous Database. You’ll learn how integrating multiple datasets into a graph enables advanced analytics, leading to new insights. You will work with three small datasets:
-1. Accounts and account owners.
-2. Purchases made by the account owners.
-3. Transactions between these accounts.
+In this challenge, you will learn key graph data modeling and analysis concepts and the interactive Graph Studio for working with graphs in an Autonomous Database. It shows you how to use graph queries to find circular payments, i.e. potentially fraudulent transactions. You will be using data containing Account and Transaction information. Then create a graph and finally query it and visualize the results.
 #### Steps to Complete:
 * Choose your platform
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge3) (Run on your Oracle Cloud Tenancy) OR
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge3) (Run on your Oracle Cloud Tenancy) 
+  <br> OR <br>
   * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge3) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
@@ -91,7 +89,8 @@ Ready to create a Social Media app where users can upload images, like other use
   * Select whether to run your challenge on [Oracle Cloud](https://mlh.link/ghwdata1224-oracle-OCFT) or [Livelabs
 Sandbox](https://mlh.link/ghwdata1224-oracle-livelabs). (An Oracle Cloud or LiveLabs account is required to participate)
 * Complete the challenge
-  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge4) (Run on your Oracle Cloud Tenancy) OR
+  * [Oracle Cloud Challenge](https://mlh.link/ghwdata1224-oracle-OCchallenge4) (Run on your Oracle Cloud Tenancy)
+  <br> OR <br>
   * [Livelabs Sandbox Challenge](https://mlh.link/ghwdata1224-oracle-LLchallenge4) (Run on an Oracle-owned pre-configured
 tenancy)
 * Share a screenshot of your LiveLab completion on our [submission form](https://mlh.link/ghwform)!
