@@ -51,7 +51,7 @@ Run the same RAG application as the previous coding challenge interactively usin
 #### Objectives: 
 Sign into Oracle Machine Learning UI, and create an Oracle Machine Learning (OML) notebook from scratch using the notebook environment, and explore the features.
 #### Steps to Complete:
-* Complete lab 3 via [this link](https://mlh.link/ghwaiml225-challenge3-link)
+* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-challenge3-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!
   
 ## Coding Challenge 4 
@@ -59,7 +59,7 @@ Sign into Oracle Machine Learning UI, and create an Oracle Machine Learning (OML
 #### Objectives: 
 Learn how to use Vector data with regular relational tables. You’ll explore creating tables with Vector columns, performing DDL operations, and using DML for manipulation.
 #### Steps to Complete:
-* Complete lab 4 via [this link](https://mlh.link/ghwaiml225-challenge4-link)
+* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-challenge4-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!
 
 ## Coding Challenge 5 
@@ -67,7 +67,7 @@ Learn how to use Vector data with regular relational tables. You’ll explore cr
 #### Objectives: 
 Explore the Vector_distance() function for performing similarity searches.
 #### Steps to Complete:
-* Complete lab 5 via [this link](https://mlh.link/ghwaiml225-challenge5-link)
+* Complete lab 2 via [this link](https://mlh.link/ghwaiml225-challenge5-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!pletion on our [submission form](https://mlh.link/ghwform)!
 
 ## Additional Resources
