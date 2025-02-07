@@ -35,7 +35,7 @@ Create an [Oracle LiveLabs account ](https://mlh.link/ghwaiml225-oracle-livelabs
 #### Objectives: 
 Build and run the RAG application with Oracle AI Vector Search and LangChain
 #### Steps to Complete:
-* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-challenge1-link)
+* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-oracle-challenge1-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!
 
 ## Coding Challenge 2 
@@ -43,7 +43,7 @@ Build and run the RAG application with Oracle AI Vector Search and LangChain
 #### Objectives: 
 Run the same RAG application as the previous coding challenge interactively using a simple user interface.
 #### Steps to Complete:
-* Complete lab 2 via [this link](https://mlh.link/ghwaiml225-challenge2-link)
+* Complete lab 2 via [this link](https://mlh.link/ghwaiml225-oracle-challenge2-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!
 
 ## Coding Challenge 3 
@@ -51,7 +51,7 @@ Run the same RAG application as the previous coding challenge interactively usin
 #### Objectives: 
 Sign into Oracle Machine Learning UI, and create an Oracle Machine Learning (OML) notebook from scratch using the notebook environment, and explore the features.
 #### Steps to Complete:
-* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-challenge3-link)
+* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-oracle-challenge3-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!
   
 ## Coding Challenge 4 
@@ -59,7 +59,7 @@ Sign into Oracle Machine Learning UI, and create an Oracle Machine Learning (OML
 #### Objectives: 
 Learn how to use Vector data with regular relational tables. You’ll explore creating tables with Vector columns, performing DDL operations, and using DML for manipulation.
 #### Steps to Complete:
-* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-challenge4-link)
+* Complete lab 1 via [this link](https://mlh.link/ghwaiml225-oracle-challenge4-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!
 
 ## Coding Challenge 5 
@@ -67,7 +67,7 @@ Learn how to use Vector data with regular relational tables. You’ll explore cr
 #### Objectives: 
 Explore the Vector_distance() function for performing similarity searches.
 #### Steps to Complete:
-* Complete lab 2 via [this link](https://mlh.link/ghwaiml225-challenge5-link)
+* Complete lab 2 via [this link](https://mlh.link/ghwaiml225-oracle-challenge5-link)
 * Share a screenshot of your lab completion on our [submission form](https://mlh.link/ghwform)!pletion on our [submission form](https://mlh.link/ghwform)!
 
 ## Additional Resources
